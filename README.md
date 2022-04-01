@@ -11,7 +11,7 @@ conda activate multi-view
 ## 数据
 [H36M_data 提取码：i6dd ](https://pan.baidu.com/s/1Wu6XEEuAtQLpttIAYQaE4Q?pwd=i6dd)
 ## 预训练模型
-[H36M_checkpoint 提取码：i6dd ](https://pan.baidu.com/s/1Wu6XEEuAtQLpttIAYQaE4Q?pwd=i6dd)
+[H36M_checkpoint 提取码：yshz ](https://pan.baidu.com/s/1lvwDJ0K_lHlEzfC06g-InA?pwd=yshz)
 ## 训练
 ### H36M(有相机参数)
 ```bash
