@@ -1,6 +1,6 @@
 # MTF-Transformer
 ## 环境
-[multi-view.tar.gz](https://pan.baidu.com/s/134vlOJmFKJSH7tiATfA6BQ?pwd=ise7)
+[multi-view.tar.gz 提取码：ise7](https://pan.baidu.com/s/134vlOJmFKJSH7tiATfA6BQ?pwd=ise7)
 ```bash
 cp multi-view.tar.gz ${path}/anaconda3/envs
 cd ${path}/anaconda3/envs
